@@ -1,0 +1,12 @@
+<resources>
+<string name="app_name">TH Sensor Driver Using Async Task</string>
+<string name="th_sensor_driver">TH Sensor Driver</string>
+<string name="temperature">Temperature:</string>
+<string name="humidity">Humidity:</string>
+<string name="activity">Activity:</string>
+<string name="number_of_readings">Number of\nSensor\nReadings:</string>
+<string name="output">Output:</string>
+
+<string name="generate">Generate</string>
+<string name="cancel">Cancel</string>
+</resources>
